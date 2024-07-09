@@ -1,0 +1,5 @@
+fastapi==0.74.0
+uvicorn==0.15.0
+pydantic==1.10.12
+obd==0.7.2
+pint==0.20.1
